@@ -1,0 +1,29 @@
+img{
+    height: 500px;
+    width:  1000px;
+}
+h3{
+    text-align: center;
+    color:blanchedalmond;
+    background-color: blueviolet;
+    border:3px;
+    border-style:dotted;
+}
+table,tr,td{
+    border:2px solid rgb(132, 108, 251)
+}
+h4{
+    text-decoration: wavy;
+    color:rgb(198, 42, 86);
+    
+}
+table{
+    text-align: center;
+    color: orchid
+}
+.header{
+    background-color: antiquewhite;
+    border: 3px solid red;
+    margin: 30px,70px;
+    
+}
